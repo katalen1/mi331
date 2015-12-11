@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 41f9c48bb5685454c8ed262cce888824
+timeCreated: 1445182671
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - portraitImage: {instanceID: 0}
+  - attributePrefab: {fileID: 150406, guid: 6abab7995a7d52341b05898dde5052c0, type: 2}
+  - attributeArea: {instanceID: 0}
+  - professionPrefab: {fileID: 166670, guid: a1014bd7c9827534ab92841370b9c9b6, type: 2}
+  - professionArea: {instanceID: 0}
+  - attribute1: {instanceID: 0}
+  - attribute2: {instanceID: 0}
+  - attribute3: {instanceID: 0}
+  - profession1: {instanceID: 0}
+  - profession2: {instanceID: 0}
+  - profession3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

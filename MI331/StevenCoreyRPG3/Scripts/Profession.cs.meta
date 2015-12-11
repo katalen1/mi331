@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ed1aafd4ef5dd08418c76c51e2abf8ca
+timeCreated: 1445392365
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - labelText: {fileID: 11444300, guid: a1014bd7c9827534ab92841370b9c9b6, type: 2}
+  - descriptionText: {fileID: 11414794, guid: a1014bd7c9827534ab92841370b9c9b6, type: 2}
+  - requirementArea: {fileID: 187004, guid: a1014bd7c9827534ab92841370b9c9b6, type: 2}
+  - requirementPrefab: {fileID: 115160, guid: 74e053d43fda63a4cbd1a466a4ed1c5c, type: 2}
+  - image: {fileID: 11426994, guid: a1014bd7c9827534ab92841370b9c9b6, type: 2}
+  - imageBackground: {instanceID: 0}
+  - characterManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
